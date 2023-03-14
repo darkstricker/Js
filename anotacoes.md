@@ -85,3 +85,25 @@
     3 - o undefined é um tipo de dado que representa valor não atribuído
 
     arquivo: A-8
+
+° Aula 10: Objetos
+
+    1 - Funciona como um array associativo de outras linguages
+
+    2 - podemos criar propriedades com chave e valor
+
+    3 - A ideia é guardar um grupo de valores para ultilizar posteriormente
+
+    4 - se declara objeto com chave {}
+
+    5 - para chamar alguma em específico se usa (nome da variável).(nome do coisa)
+
+    Ex:
+
+    var obj = {
+    nome: "João",
+    idade: 13,
+    cargo: "Estudante"   
+    };
+
+    console.log(obj.nome);
