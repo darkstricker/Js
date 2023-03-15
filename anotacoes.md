@@ -107,3 +107,19 @@
     };
 
     console.log(obj.nome);
+
+    arquivo: A-9
+
+° Aula 11: Array
+
+    1 - Arrays são considerados objetos em JS mas servem como listas
+
+    2 - podemos ter itens de qualquer tipo de dado também
+
+    3 - porém não por chave e valor, e sim por índice
+
+    4 - se declara objeto com cochete []
+
+    5 - para chamar alguma em específico se usa (nome da variável).(nome do coisa)
+
+    arquivo: A-10
