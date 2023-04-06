@@ -123,3 +123,13 @@
     5 - para chamar alguma em específico se usa (nome da variável).(nome do coisa)
 
     arquivo: A-10
+
+º Aula 12: Operador condicional
+
+    1 - são instruções que podem determinar o fluxo de uma aplicação
+
+    2 - amplamente ultilizados, deixamos softwares mais dinâmicos
+
+    3 - exemplos são if, else, else if
+
+    arquivo: A-11
